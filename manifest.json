@@ -1,0 +1,9 @@
+{
+    "name": "GloomwoodHardcore",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/wanderan51/HardcoreGloom",
+    "description": "Adds a hardcore mode to Gloomwood – your save is permanently deleted on death. Features configurable options and a warning banner.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Gloomwood-5.4.2100"
+    ]
+}
